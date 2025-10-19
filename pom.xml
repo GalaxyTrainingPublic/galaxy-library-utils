@@ -4,7 +4,7 @@
 
 	<groupId>pe.edu.galaxy.training.java.libs</groupId>
 	<artifactId>galaxy-library-utils</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1</version>
 	<name>galaxy-library-utils</name>
 	<description>Galaxy Libary utils</description>
 
@@ -19,7 +19,7 @@
 		<connection>scm:git:https://github.com/GalaxyTraining/galaxy-library-utils.git</connection>
 		<developerConnection>scm:git:ssh://github.com/GalaxyTraining/galaxy-library-utils.git</developerConnection>
 		<url>https://github.com/GalaxyTrainingPublic/galaxy-library-utils</url>
-		<tag>HEAD</tag>
+		<tag>v1</tag>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
