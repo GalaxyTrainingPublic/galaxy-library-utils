@@ -18,8 +18,8 @@
 	<scm>
 		<connection>scm:git:https://github.com/GalaxyTraining/galaxy-library-utils.git</connection>
 		<developerConnection>scm:git:ssh://github.com/GalaxyTraining/galaxy-library-utils.git</developerConnection>
-		<url>https://github.com/GalaxyTraining/galaxy-library-utils</url>
-		<tag>v1</tag>
+		<url>https://github.com/GalaxyTrainingPublic/galaxy-library-utils</url>
+		<tag>HEAD</tag>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
