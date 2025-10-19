@@ -4,7 +4,7 @@
 
 	<groupId>pe.edu.galaxy.training.java.libs</groupId>
 	<artifactId>galaxy-library-utils</artifactId>
-	<version>1</version>
+	<version>1-SNAPSHOT</version>
 	<name>galaxy-library-utils</name>
 	<description>Galaxy Libary utils</description>
 
